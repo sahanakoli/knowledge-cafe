@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "title": "Lorem Ipsum: The Art of Placeholder Text",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "posted_date": "2023-09-13",
+      "reading_time": "10 mins",
+      "hashtags": ["LoremIpsum", "Writing", "Placeholder"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Exploring Virtual Reality: A Beginner's Guide",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": "8 mins",
+      "hashtags": ["VirtualReality", "Technology", "Beginners"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "Cooking Adventures: Recipes from Around the World",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": "15 mins",
+      "hashtags": ["Cooking", "Recipes", "Travel"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "The Science of Space Exploration",
+      "author": "Robert Anderson",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": "12 mins",
+      "hashtags": ["Space", "Science", "Exploration"]
+    } 
+  ]
+  
