@@ -1,10 +1,10 @@
-# Project Title
-- Knowledge Cafe
+# Project Features
+- Users can selected or access the course.
+- Users can selected more than one course.But users one course can not be selected more than once.
+- The selected course name will see in at cart.
+- Users can selected maximum 20 credit hours.
+- Credit hours and credit remaining hours will see in at cart.
 
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# The state management of my project
+->I have used state in my project.
+  At first i used  state in my project for stored my project all data.Then again i used state for stored all cart data.This state also an array.
